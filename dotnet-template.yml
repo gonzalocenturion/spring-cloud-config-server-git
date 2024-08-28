@@ -1,1 +1,2 @@
-
+ConnectionString:
+    SqlServer: "Server=${SqlServer.Default.Host},${SqlServer.Default.Port};Database=${SqlServer.Default.Database};User Id=${SqlServer.Default.Username};Password=${SqlServer.Default.Password};"
