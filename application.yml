@@ -1,5 +1,1 @@
-properties:
-  hello: hola
-  bye: adios
-
-
+allowedHosts: "*"
